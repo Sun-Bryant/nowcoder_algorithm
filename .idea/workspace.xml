@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c792fed-5551-4fef-b24b-96aa7cf09768" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/syd/basic/class_03/Code_04_DogCatQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syd/basic/class_03/Code_05_RotateMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syd/basic/class_03/Code_06_PrintMatrixSpiralOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syd/basic/class_03/Code_08_ZigZagPrintMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syd/basic/class_03/Code_11_IsPalindromeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syd/basic/class_03/Code_12_SmallerEqualBigger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syd/basic/class_03/Code_13_CopyListWithRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syd/basic/class_03/Code_14_FindFirstIntersectNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syd/basic/class_04/Code_01_PreInPosTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syd/basic/class_04/Code_02_PrintBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syd/basic/class_04/Code_03_SuccessorNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syd/basic/class_04/Code_06_IsBalancedTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syd/basic/class_04/Code_07_IsBSTAndCBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syd/basic/class_04/Code_08_CompleteTreeNodeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,96 +20,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Code_01_Array_To_Stack_Queue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_03/Code_01_Array_To_Stack_Queue.java">
+      <file leaf-file-name="Code_01_PreInPosTraversal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_04/Code_01_PreInPosTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state relative-caret-position="385">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Code_04_DogCatQueue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_03/Code_04_DogCatQueue.java">
+      <file leaf-file-name="Code_02_PrintBinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_04/Code_02_PrintBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-              <folding>
-                <element signature="e#644#645#0" expanded="true" />
-                <element signature="e#668#669#0" expanded="true" />
-                <element signature="e#696#697#0" expanded="true" />
-                <element signature="e#722#723#0" expanded="true" />
-                <element signature="e#759#760#0" expanded="true" />
-                <element signature="e#796#797#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="133">
+              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Code_05_RotateMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_03/Code_05_RotateMatrix.java">
+      <file leaf-file-name="Code_03_SuccessorNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_04/Code_03_SuccessorNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="190">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Code_08_ZigZagPrintMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_03/Code_08_ZigZagPrintMatrix.java">
+      <file leaf-file-name="Code_06_IsBalancedTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_04/Code_06_IsBalancedTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            <state relative-caret-position="342">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Code_11_IsPalindromeList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_03/Code_11_IsPalindromeList.java">
+      <file leaf-file-name="Code_07_IsBSTAndCBT.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_04/Code_07_IsBSTAndCBT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
+            <state relative-caret-position="23">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Code_12_SmallerEqualBigger.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_03/Code_12_SmallerEqualBigger.java">
+      <file leaf-file-name="Code_08_CompleteTreeNodeNumber.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_04/Code_08_CompleteTreeNodeNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Code_13_CopyListWithRandom.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_03/Code_13_CopyListWithRandom.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Code_14_FindFirstIntersectNode.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_03/Code_14_FindFirstIntersectNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1444">
-              <caret line="78" column="19" lean-forward="true" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Code_06_PrintMatrixSpiralOrder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_03/Code_06_PrintMatrixSpiralOrder.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Code_03_StackAndQueueConvert.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_03/Code_03_StackAndQueueConvert.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1178">
-              <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+            <state relative-caret-position="190">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -148,6 +106,12 @@
         <option value="$PROJECT_DIR$/src/com/syd/basic/class_03/Code_12_SmallerEqualBigger.java" />
         <option value="$PROJECT_DIR$/src/com/syd/basic/class_03/Code_13_CopyListWithRandom.java" />
         <option value="$PROJECT_DIR$/src/com/syd/basic/class_03/Code_14_FindFirstIntersectNode.java" />
+        <option value="$PROJECT_DIR$/src/com/syd/basic/class_04/Code_01_PreInPosTraversal.java" />
+        <option value="$PROJECT_DIR$/src/com/syd/basic/class_04/Code_02_PrintBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/com/syd/basic/class_04/Code_03_SuccessorNode.java" />
+        <option value="$PROJECT_DIR$/src/com/syd/basic/class_04/Code_06_IsBalancedTree.java" />
+        <option value="$PROJECT_DIR$/src/com/syd/basic/class_04/Code_07_IsBSTAndCBT.java" />
+        <option value="$PROJECT_DIR$/src/com/syd/basic/class_04/Code_08_CompleteTreeNodeNumber.java" />
       </list>
     </option>
   </component>
@@ -181,8 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -207,19 +169,14 @@
               <item name="nowcoder_algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="class_01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nowcoder_algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nowcoder_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="class_03" type="462c0819:PsiDirectoryNode" />
+              <item name="class_04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -234,6 +191,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/syd/basic/class_04" />
       <recent name="$PROJECT_DIR$/src/com/syd/basic/class_03" />
       <recent name="$PROJECT_DIR$/src/com/syd/basic/class_01" />
       <recent name="$PROJECT_DIR$/src" />
@@ -355,12 +313,13 @@
       <workItem from="1571356953149" duration="207000" />
       <workItem from="1571657009841" duration="2334000" />
       <workItem from="1571752698880" duration="1068000" />
-      <workItem from="1571792401598" duration="2941000" />
+      <workItem from="1571792401598" duration="3481000" />
+      <workItem from="1572053461737" duration="2064000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10847000" />
+    <option name="totallyTimeSpent" value="13451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="808" extended-state="6" />
@@ -374,19 +333,19 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32911393" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="7" />
@@ -403,41 +362,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_03/Code_02_GetMinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_03/Code_03_StackAndQueueConvert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1178">
-          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_03/Code_01_Array_To_Stack_Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_01/Code_01_InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_01/Code_02_SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2014">
-          <caret line="108" selection-start-line="108" selection-end-line="108" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_01/Code_05_MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
@@ -700,14 +624,14 @@
     <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_03/Code_01_Array_To_Stack_Queue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
-          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_03/Code_04_DogCatQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        <state relative-caret-position="551">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
           <folding>
             <element signature="e#644#645#0" expanded="true" />
             <element signature="e#668#669#0" expanded="true" />
@@ -719,13 +643,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_03/Code_06_PrintMatrixSpiralOrder.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_03/Code_05_RotateMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -738,7 +659,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_03/Code_11_IsPalindromeList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
+        <state relative-caret-position="1387">
           <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
         </state>
       </provider>
@@ -759,8 +680,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_03/Code_14_FindFirstIntersectNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1444">
-          <caret line="78" column="19" lean-forward="true" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
+        <state relative-caret-position="2374">
+          <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_04/Code_01_PreInPosTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_04/Code_02_PrintBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_04/Code_03_SuccessorNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_04/Code_06_IsBalancedTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_04/Code_07_IsBSTAndCBT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/syd/basic/class_04/Code_08_CompleteTreeNodeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
